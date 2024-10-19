@@ -8,6 +8,7 @@ A web application that helps you to visualize and understand the renowned sortin
 ## Programming Tools and Libraries used
 - React
 - TypeScript
+- JavaScript
 - Redux Toolkit
 - TailwindCSS
 - ES6 (Promises/Async Await)
