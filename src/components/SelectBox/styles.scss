@@ -1,0 +1,10 @@
+.SelectTrigger {
+  &[data-disabled] {
+    opacity: 0.5;
+  }
+}
+
+.SelectContent {
+  width: var(--radix-select-trigger-width);
+  max-height: var(--radix-select-content-available-height);
+}

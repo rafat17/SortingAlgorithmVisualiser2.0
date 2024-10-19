@@ -1,0 +1,20 @@
+.SliderRoot {
+  --radix-slider-thumb-transform: translateX(0) !important;
+
+  &[data-disabled] {
+    opacity: 0.5;
+  }
+}
+
+.SliderLabel {
+  white-space: nowrap;
+
+  &.disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+}
+
+.SliderThumb {
+  transform: translateX(-10px) !important;
+}
