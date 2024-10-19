@@ -13,7 +13,7 @@ A web application that helps you to visualize and understand the renowned sortin
 - Tailwind CSS
 
 ## Features
-- Range input to select the number of blocks to sort from 1 to 100 at max
-- Range input to determine the animation speed at which the blocks will sort out from min delay of 400ms to max delay of 10ms
-- Numbers are randomly picked for each block element from between 0 to 99 inclusive
-- Dropdown menu to select any of the 6 sorting algorithms
+- Slider to select the number of blocks for sorting ranging from 4 to 100
+- Slider to select the animation speed ranging from 1 to 32
+- For each block element, numbers are randomly picked from 1 to 99 inclusive
+- Dropdown menu to select the sorting algorithm
