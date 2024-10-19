@@ -10,8 +10,7 @@ A web application that helps you to visualize and understand the renowned sortin
 - TypeScript
 - JavaScript
 - Redux Toolkit
-- TailwindCSS
-- ES6 (Promises/Async Await)
+- Tailwind CSS
 
 ## Features
 - Range input to select the number of blocks to sort from 1 to 100 at max
