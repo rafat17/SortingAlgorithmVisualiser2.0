@@ -19,7 +19,7 @@ const BlocksContainer = () => {
   const labels = getLabelsForLegend(selectedAlgorithm);
 
   return (
-    <div className="relative h-[68vh] flex justify-center items-end">
+    <div className="relative h-[80vh] flex justify-center items-end">
       <Legend title={DEFAULT_LEGEND_LABEL} labels={labels} />
       {blocks.map(
         (
